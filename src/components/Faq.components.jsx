@@ -13,7 +13,7 @@ export const Faq = () => {
     },
     {
       title: "How do I know the right courses for me?",
-      para: "Make contact with SITE staff for better Knowledge ",
+      para: "Make contact with SIIT staff for better Knowledge ",
     },
     {
       title: "Do I get a Certificate for every course I take?",
