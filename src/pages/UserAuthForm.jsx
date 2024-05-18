@@ -25,7 +25,7 @@ const UserAuthForm = ({type}) => {
  // server connection
   const userAuthThroughServer = (serverRoute, formData) => {
     axios
-      .post(import.meta.env.VITE_SERVER_DOMAIN + serverRoute, formData)
+      .post(process.env.VITE_SERVER_DOMAIN + serverRoute, formData)
       .then(({ data }) => {
         storeInSession("user", JSON.stringify(data));
 
