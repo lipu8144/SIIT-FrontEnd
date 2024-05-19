@@ -1,6 +1,12 @@
 import { IoIosSend } from "react-icons/io";
 
 export const Newsletter = () => {
+
+
+  const handleInput = () =>{
+    document.getElementById("emailInput").value = "";
+  }
+
   return (
     <div className=" bg-text_color3 mt-10">
       <section>
@@ -14,10 +20,11 @@ export const Newsletter = () => {
             <div className="flex justify-between px-3 relative items-center bg-white">
               <input
                 className="w-[70%] float-right md:p-3 p-2 outline-none"
+                id="emailInput"
                 type="email"
                 placeholder="Enter Email Address"
               />
-              <button>
+              <button onClick={handleInput}>
               <IoIosSend  className="text-3xl cursor-pointer" />
               </button>
             </div>
