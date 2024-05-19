@@ -126,7 +126,7 @@ const Courses = () => {
           </div>
         </div>
       </section>
-      {showPopup && <EnrolePopup/> }
+      {/* {showPopup && <EnrolePopup/> } */}
     </>
   );
 };
