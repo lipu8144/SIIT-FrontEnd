@@ -92,12 +92,12 @@ export const Courses = ({ fakeFetch }) => {
                       <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
                       <h2 className="text-xl font-bold p-2">{course_name}</h2>
                       <div className="course-details ">
-                        <button
+                        {/* <button
                           onClick={() => setShowPopup(true)}
                           className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
                         >
                           Enrole
-                        </button>
+                        </button> */}
                         {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
                         Details
                       </button> */}

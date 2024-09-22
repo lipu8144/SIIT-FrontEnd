@@ -28,12 +28,12 @@ const Courses = () => {
             <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
             <h2 className="text-xl font-bold p-2">OS-CIT</h2>
             <div className="course-details ">
-              <button
+              {/* <button
                 onClick={() => setShowPopup(true)}
                 className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
               >
                 Enrole
-              </button>
+              </button> */}
               {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
               Details
             </button> */}
@@ -45,12 +45,12 @@ const Courses = () => {
             <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
             <h2 className="text-xl font-bold p-2">OS-CIT 'A'</h2>
             <div className="course-details ">
-              <button
+              {/* <button
                 onClick={() => setShowPopup(true)}
                 className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
               >
                 Enrole
-              </button>
+              </button> */}
               {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
               Details
             </button> */}
@@ -62,12 +62,12 @@ const Courses = () => {
             <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
             <h2 className="text-xl font-bold p-2">OS-CIT 'A+'</h2>
             <div className="course-details ">
-              <button
+              {/* <button
                 onClick={() => setShowPopup(true)}
                 className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
               >
                 Enrole
-              </button>
+              </button> */}
               {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
               Details
             </button> */}
@@ -79,12 +79,12 @@ const Courses = () => {
             <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
             <h2 className="text-xl font-bold p-2">Tally with GST</h2>
             <div className="course-details ">
-              <button
+              {/* <button
                 onClick={() => setShowPopup(true)}
                 className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
               >
                 Enrole
-              </button>
+              </button> */}
               {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
               Details
             </button> */}
@@ -96,12 +96,12 @@ const Courses = () => {
             <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
             <h2 className="text-xl font-bold p-2">Adobe Photoshop</h2>
             <div className="course-details ">
-              <button
+              {/* <button
                 onClick={() => setShowPopup(true)}
                 className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
               >
                 Enrole
-              </button>
+              </button> */}
               {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
               Details
             </button> */}
@@ -113,12 +113,12 @@ const Courses = () => {
             <hr className=" w-full bg-buttons_2 p-[1px] mt-2 border-buttons_2" />
             <h2 className="text-xl font-bold p-2">Advanced Excel</h2>
             <div className="course-details ">
-              <button
+              {/* <button
                 onClick={() => setShowPopup(true)}
                 className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1"
               >
                 Enrole
-              </button>
+              </button> */}
               {/* <button className=" bg-buttons_1 text-white px-2 py-1 rounded mr-1">
               Details
             </button> */}
