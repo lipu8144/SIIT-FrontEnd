@@ -11,7 +11,8 @@ export const fakeFetchCourses = (url) => {
                     courses: [
                       {
                         id: 1,
-                        thumbnail: "http://surl.li/rhsiz",
+                        thumbnail:
+                          "https://whitelabel-content.s3.ap-south-1.amazonaws.com/14245/service-image/16580819021.png",
                         course_name: "OS-CIT",
                         category: "Computer",
                       },
@@ -29,19 +30,22 @@ export const fakeFetchCourses = (url) => {
                       },
                       {
                         id: 4,
-                        thumbnail: "http://surl.li/rhsku",
+                        thumbnail:
+                          "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/86110a60-116f-42d6-842d-52c42677f99b-1684775379244.jpeg",
                         course_name: "MS-Excel",
                         category: "MS-Office",
                       },
                       {
                         id: 5,
-                        thumbnail: "http://surl.li/rhslp",
+                        thumbnail:
+                          "https://e7.pngegg.com/pngimages/235/949/png-clipart-logo-adobe-systems-shop-logo-hd-shop-logo-blue-text-thumbnail.png",
                         course_name: "Photoshop",
                         category: "Design",
                       },
                       {
                         id: 6,
-                        thumbnail: "http://surl.li/rhsmk",
+                        thumbnail:
+                          "https://5.imimg.com/data5/RY/OK/MY-25169368/tally-erp-9-gst-version.jpg",
                         course_name: "Tally with GST",
                         category: "Account",
                       },
@@ -59,13 +63,15 @@ export const fakeFetchCourses = (url) => {
                       },
                       {
                         id: 9,
-                        thumbnail: "http://surl.li/rhsmy",
+                        thumbnail:
+                          "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png",
                         course_name: "JAVA",
                         category: "Programming",
                       },
                       {
                         id: 10,
-                        thumbnail: "http://surl.li/rhsnt",
+                        thumbnail:
+                          "https://w7.pngwing.com/pngs/772/151/png-transparent-blender-logo-tech-companies-thumbnail.png",
                         course_name: "Blender",
                         category: "Design",
                       },
